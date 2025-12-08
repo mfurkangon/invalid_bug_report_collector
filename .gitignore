@@ -5,3 +5,7 @@ nlbse/
 venv/
 .env
 no-code-fix/
+
+
+data/
+*.csv
