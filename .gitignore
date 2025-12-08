@@ -1,5 +1,6 @@
 data.json
 events.json
+settings.json
 nlbse/
 
 venv/
@@ -9,3 +10,22 @@ no-code-fix/
 
 data/
 *.csv
+
+.vscode/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+logs/
+*.log
+output/
+.idea/
+*.iml
+.cache/
+.tmp/
+*.sqlite3
+*.pkl
+*.h5
+*.ckpt
+*.model
+
